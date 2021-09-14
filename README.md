@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hello there 👋
 
-<!--
-**Natzalia/Natzalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://media1.tenor.com/images/be768e5061939776f77330e7fa63ca00/tenor.gif?itemid=23022066)
 
-Here are some ideas to get you started:
+*I am Natalia, a 22 years old that enjoys making bots and programs.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Here are some ideas to get you started:
+
+- 🍉 I’m currently working on a Google form bot.
+- 🍒 Ask me about anything on Discord `Natalia₊︵☆#0001`
+- 🍭 Pronouns: `she/them`
+- 🍕 Fun fact: *I did not study programming, I just do it as a hobbie*
+
+## Services
+- if you want to hire me, you may dm me on Discord
+
+## Support me
+**You can support me by:**
+
+- Inviting **[Vera Music](https://discord.com/oauth2/authorize?client_id=860165433998311455&permissions=2184310080&scope=bot%20applications.commands)** to your server.
+- Joining my **[Discord server](https://discord.gg/B38RQWxGJQ)**
+- Boosting our server, or sending a small nitro gift.
+- Anything done to support me is appriciated.
+- Also support this [cuty](https://github.com/Tomato6966) that made me like coding bots even more
+
+
+
