@@ -21,7 +21,6 @@
 - Joining my **[Discord server](https://discord.gg/B38RQWxGJQ)**
 - Boosting our server, or sending a small nitro gift.
 - Anything done to support me is appriciated.
-- Also support this [cuty](https://github.com/Tomato6966) that made me like coding bots even more
 
 
 
