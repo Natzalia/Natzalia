@@ -6,10 +6,10 @@
 
 ## Here are some ideas to get you started:
 
-- 🍉 I’m currently working on a Google form bot.
+- 🍉 I’m currently working on a upgrading Ophelia Houses bot.
 - 🍒 Ask me about anything on Discord `Natalia₊︵☆#0001`
 - 🍭 Pronouns: `she/them`
-- 🍕 Fun fact: *I did not study programming, I just do it as a hobbie*
+- 🍕 Fun fact: *I am self-taught*
 
 ## Services
 - if you want to hire me, you may dm me on Discord
@@ -17,9 +17,10 @@
 ## Support me
 **You can support me by:**
 
-- Inviting **[Vera Music](https://discord.com/oauth2/authorize?client_id=860165433998311455&permissions=2184310080&scope=bot%20applications.commands)** to your server.
-- Joining my **[Discord server](https://discord.gg/B38RQWxGJQ)**
-- Boosting our server, or sending a small nitro gift.
+- Inviting **[Ophelia Houses](https://top.gg/bot/968487683171180545)** to your server.
+- Inviting **[Elyana](https://top.gg/bot/994365128634019911)** to your server.
+- Joining my **[Discord server](https://discord.gg/ophelia)**
+- Joining our bots support server: **[Ophelia Bots](https://discord.gg/ZMsu5H6ett)**
 - Anything done to support me is appriciated.
 
 
