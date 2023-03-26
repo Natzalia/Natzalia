@@ -17,10 +17,9 @@
 ## Support me
 **You can support me by:**
 
-- Inviting **[Ophelia Houses](https://top.gg/bot/968487683171180545)** to your server.
-- Inviting **[Elyana](https://top.gg/bot/994365128634019911)** to your server.
+- Inviting **[xenA](https://discord.com/api/oauth2/authorize?client_id=1049464412077047809&permissions=8&scope=bot%20applications.commands)** to your server.
 - Joining my **[Discord server](https://discord.gg/ophelia)**
-- Joining our bots support server: **[Ophelia Bots](https://discord.gg/ZMsu5H6ett)**
+- Joining our bots support server: **[SPKTRM](https://discord.gg/47UzK4VC79)**
 - Anything done to support me is appriciated.
 
 
